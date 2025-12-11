@@ -1,0 +1,19 @@
+# Conclusion
+
+In our exploration of the New York City Payroll Data, we have explored and studied critical insights and patterns that highlight the dynamics of municipal employee compensation. Our analysis has spanned various dimensions of payroll data, from compensation distribution to the intricacies of salary breakdowns and the influence of geographic locations.
+
+## Main Takeaway:
+
+The main notable takeaway is that compensation is not only influenced by job title and work experience but also significantly by the borough in which employees work. Manhattan, often perceived as the economic powerhouse of NYC, surprisingly showed the lowest median daily pay in our salary distribution analysis. The overtime pay, while relatively consistent across boroughs, revealed that 'Total Other Pay' varied, hinting at borough-specific compensation strategies that may reflect the cost of living or additional borough-specific duties. Our analysis of the leave status and workforce dynamics highlighted the active and ceased statuses of employees, providing a window into workforce availability and turnover rates. The alluvial and parallel coordinates plots have been particularly revealing, showing the complex interplay between pay basis, work location, and leave status. Showing that the dynamics of payroll of workers is very complex and dependent on lot of factors.
+
+
+## Limitations:
+Our study was constrained by the scope of available data and its representation. The normalization process, while enabling fair comparisons, also obscures the raw numerical values and potential extremes that could offer additional insights. Moreover, the inherent complexity and multifaceted nature of New York's municipal workforce mean that our analysis can only illuminate trends rather than pinpoint causations.
+
+
+## Future Scope:
+Our study can be leveraged by the NYC City Council to better align budgetary decisions with employee welfare. Future score includes integrating this analysis data with broader economic metrics and employee feedback, the Council can adjust compensation structures to more fairly reflect the cost of living differences across boroughs and address disparities. This data-driven approach will aid in crafting targeted policies to enhance job satisfaction and welfare, ensuring a well-supported municipal workforce and efficient allocation of the city's resources.
+
+
+## Lessons Learned:
+In our study of New York City’s payroll data, we have gotten better at asking the right questions and using detailed plots to untangle the complex salary data. We have seen firsthand how tools like alluvial plot and parallel coordinates can reveal the story behind the data, and how interactive visuals can make those stories clear and engaging. 

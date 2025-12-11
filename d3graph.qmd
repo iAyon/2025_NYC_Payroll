@@ -1,0 +1,33 @@
+# Interactive Graph
+
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<style>
+        /* Add your CSS styling here */
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            padding: 6px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+</style>
+
+
+<h3> Variation of Average Daily Salaries Per Year by Borough </h3>
+
+The interactive plot here shows a pie chart which indicates the mean daily salary in each borough for a given year. Our data has been randomly sampled and the outliers have been removed. On hovering over each section, we see which segment corresponds to which borough.
+
+<div id="piechart"></div>
+<script src="./scripts/myscript.js"></script>
+
+
+<h3> Inferences: </h3>
+
+For most of the years, we see that all the boroughs have similar proportions of the mean average salary. Based on all our previous studies, we would expect Manhattan to have a very high mean daily salary. However, most of the high salaries were outliers and have been removed. Now, we see that Manhattan actually has one of the lower mean daily salaries, due to the large number of employees who earn minimum wage. 
+
+Another trend which we would not expect, is that the mean daily salary of Staten Island is actually the highest across time. This seems counter-intuitive, but can be explained by the fact the number of workers in Staten Island might be the lowest.
+
+However, when we consider the order or ranking of each borough, based on the average daily salary, we see that this order changes per year. This could be indicative of a migration of municipal workers over time, and the change in policies, entailing varying salaries every year. 
